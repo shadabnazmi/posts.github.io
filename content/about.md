@@ -5,7 +5,7 @@ layout: "About"
 description: "About"
 ---
 
-I'm **Alen Abraham** (he/him), a Software Engineer from Kerala, India 🇮🇳. I focus on **DevOps**, **Cloud** and **Cloud native** environments along with a strong interest towards Open-Source. I like to learn new stuffs, especially topics related to site reliability, devops, security and almost all kinds of tech stuffs. I write tech and career related blogposts here on my website and on various other platforms like [Dev.to](https://dev.to/alenabraham) and [Hashnode](https://alenabraham.hashnode.dev/) etc.
+I'm **Shadab Nazmi** (he/him), a Software Engineer from Kerala, India 🇮🇳. I focus on **DevOps**, **Cloud** and **Cloud native** environments along with a strong interest towards Open-Source. I like to learn new stuffs, especially topics related to site reliability, devops, security and almost all kinds of tech stuffs. I write tech and career related blogposts here on my website and on various other platforms like [Dev.to](https://dev.to/alenabraham) and [Hashnode](https://alenabraham.hashnode.dev/) etc.
 
 I completed my Bachelor’s degree in Electronics and Communication Engineering(ECE) from [College of Engineering Chengannur(CEC)](https://ceconline.edu/) on July 2021. Currently, I am working full-time as a **Technical Operations and Site Reliability Engineer** at [Qure.ai](https://www.qure.ai/) and as an **Open Source Contributor** at [Naas.ai](https://www.naas.ai/).
 
